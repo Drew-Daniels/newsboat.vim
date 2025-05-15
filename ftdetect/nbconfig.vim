@@ -1,1 +1,1 @@
-au BufNewFile,BufRead */newsboat/config set filetype=nbconfig
+au BufNewFile,BufRead */.newsboat/config set filetype=nbconfig
